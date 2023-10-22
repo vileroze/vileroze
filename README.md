@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saugat</h1>
-<h3 align="center">A passionate dev with a knack for sniffing out bugs</h3>
+<h3 align="center">Digital craftsman { Developer / Designer }</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vileroze&label=Profile%20views&color=0e75b6&style=flat" alt="vileroze" /> </p>
 <table width="100%"> 
