@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [Thoughtstopia](https://thoughtstopia.vercel.app/)
 - 📝 I regularly read articles on:  **New open source apps, Microservices, Design systems**
 - 📫 How to reach me:  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/N77A7EBh)   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/saugat-thapa-a3a92913a/)
-- 📄 Know about my experiences [https://github.com/vileroze/vileroze/blob/main/SAUGAT_THAPA_CV.pdf](https://github.com/vileroze/vileroze/blob/main/SAUGAT_THAPA_CV.pdf)
+- 📄 Know about my experiences [View CV](https://github.com/vileroze/vileroze/blob/main/SAUGAT_THAPA_CV.pdf)
 - ⚡ Fun fact:  **I think sharing memes are an excellent way of keeping in touch with friends and acquaintances**
 
 <br>
