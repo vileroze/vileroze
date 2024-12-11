@@ -74,10 +74,10 @@
 ### 📈 Github Stats
 <table>
   <tr>
-    <td>
+<!--     <td>
       <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vileroze&show_icons=true&locale=en&hide=&text_color=daf7dc&bg_color=151515" alt="vileroze" /></p>
     </td>
-<!--     <td>
+    <td>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vileroze&hide=&text_color=daf7dc&bg_color=151515" alt="vileroze" /></p>
     </td> -->
   </tr>
